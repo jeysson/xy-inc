@@ -1,2 +1,0 @@
-# xy-inc
-Teste Mobile
